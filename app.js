@@ -52,7 +52,7 @@ window.onload = function() {
 
     // Redirect after 5 seconds
     setTimeout(function() {
-        window.location.href = 'index.html'; 
+        window.location.href = 'main.html'; 
     }, 5000); 
 
     // Add an event listener for window resize
